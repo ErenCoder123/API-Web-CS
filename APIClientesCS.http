@@ -1,0 +1,6 @@
+@APIClientesCS_HostAddress = http://localhost:5108
+
+GET {{APIClientesCS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
